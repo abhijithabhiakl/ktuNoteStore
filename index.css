@@ -1,8 +1,16 @@
 body {
-  background-color: #af0000;
-}
-h1 {
-  color: #0060af;
   font-family: "Raleway", sans-serif;
-  font-size: 300px;
+}
+#title {
+  background-color: #268acc;
+  color: #a1a1a1;
+}
+.container-fluid {
+  padding: 2% 2% 0.5%;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
 }
